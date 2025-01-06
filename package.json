@@ -1,6 +1,6 @@
 {
-  "name": "@roamhq/wrtc",
-  "description": "Standards-compliant WebRTC implementation for Node",
+  "name": "@kulgeyko/roamhq-wrtc",
+  "description": "Fork of @roamhq/wrtc with custom modifications",
   "keywords": [
     "webrtc",
     "p2p",
@@ -13,7 +13,7 @@
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/WonderInventions/node-webrtc.git"
+    "url": "https://github.com/Kulgeyko93/node-webrtc"
   },
   "main": "lib/index.js",
   "types": "types/index.d.ts",
